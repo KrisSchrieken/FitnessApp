@@ -14,6 +14,7 @@
 		7691F675232A1757002F5976 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7691F673232A1757002F5976 /* LaunchScreen.storyboard */; };
 		7691F680232A1757002F5976 /* FitnessAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7691F67F232A1757002F5976 /* FitnessAppTests.swift */; };
 		7691F68B232A1757002F5976 /* FitnessAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7691F68A232A1757002F5976 /* FitnessAppUITests.swift */; };
+		7691F699232A1816002F5976 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7691F698232A1816002F5976 /* PageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		7691F686232A1757002F5976 /* FitnessAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FitnessAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7691F68A232A1757002F5976 /* FitnessAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FitnessAppUITests.swift; sourceTree = "<group>"; };
 		7691F68C232A1757002F5976 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7691F698232A1816002F5976 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				7691F66A232A1756002F5976 /* AppDelegate.swift */,
 				7691F66C232A1756002F5976 /* ViewController.swift */,
 				7691F66E232A1756002F5976 /* Main.storyboard */,
+				7691F698232A1816002F5976 /* PageViewController.swift */,
 				7691F671232A1757002F5976 /* Assets.xcassets */,
 				7691F673232A1757002F5976 /* LaunchScreen.storyboard */,
 				7691F676232A1757002F5976 /* Info.plist */,
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7691F699232A1816002F5976 /* PageViewController.swift in Sources */,
 				7691F66D232A1756002F5976 /* ViewController.swift in Sources */,
 				7691F66B232A1756002F5976 /* AppDelegate.swift in Sources */,
 			);
